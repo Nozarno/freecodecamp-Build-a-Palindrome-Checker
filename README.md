@@ -1,3 +1,5 @@
+source : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#build-a-palindrome-checker-project
+
 Build a Palindrome Checker
 A palindrome is a word or phrase that can be read the same way forwards and backwards, ignoring punctuation, case, and spacing.
 
